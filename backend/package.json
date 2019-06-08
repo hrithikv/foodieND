@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error occured\" && exit 1"
+  },
+  "author": "Hrithik Vemparala",
+  "license": "LICENSED",
+  "dependencies": {
+    "braintree": "^2.13.1",
+    "express": "^4.16.3",
+    "gateway": "^1.0.0",
+    "sandbox": "^0.8.6"
+  }
+}
